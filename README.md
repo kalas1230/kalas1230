@@ -1,4 +1,5 @@
-## Freshmen at Bilkent Uni
+## Freshmen at Bilkent Uni CS major
+
 
 <!--
 **kalas1230/kalas1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
