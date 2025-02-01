@@ -1,4 +1,4 @@
-## Freshmen at Bilkent Uni CS major
+
 
 
 <!--
